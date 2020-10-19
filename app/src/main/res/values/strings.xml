@@ -1,0 +1,11 @@
+<resources>
+    <string name="firstQue">The taxi will be here in a couple of minutes. We …… get ready to go.</string>
+
+    <string name="answ1">had better</string>
+    <string name="answ2">would better</string>
+    <string name="answ3">should better</string>
+    <string name="secondQue">The interviewer started off …… me why I wanted the job.</string>
+    <string name="answ2_1">to ask</string>
+    <string name="answ2_2">in asking</string>
+    <string name="answ2_3">by asking</string>
+</resources>
